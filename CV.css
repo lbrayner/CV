@@ -5,3 +5,7 @@
 .org-center {
     text-align: center
 }
+
+body {
+    margin: 8%
+}

@@ -27,8 +27,9 @@ Desenvolvedor.
 - Alemão – Intermediário (CCBA)
 - Professor de inglês (WizardPE) por 1,5 *ano*
 - Tradutor (Tempest Security Intelligence) por 3 *meses*
-- Desenvolvedor (HMS Sistemas e Serviços LTDA) por 3 *anos*
-- Ministração de curso de 10h+ (contratado por HMS Sistemas e Serviços LTDA) sobre sistema operacional GNU/Linux e VIM
+- HMS Sistemas e Serviços LTDA:
+  - Desenvolvedor por 3 *anos*
+  - Ministração de curso de 10h+ (contrato à parte) sobre sistema operacional GNU/Linux e VIM
 
 * Experiências Profissionais
 
