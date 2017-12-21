@@ -1,0 +1,59 @@
+#+OPTIONS: num:nil
+#+BEGIN_CENTER
+Brasileiro, solteiro, nascido em 1987\\
+#+INCLUDE: sensitive.org
+#+END_CENTER
+
+* COMMENT Crítica
+ 
+** Pedro
+
+Algumas coisas principais já melhorariam. Margens maiores, pra dar
+mais respiro ao texto, linhas menores (tem uma particularmente bem
+extensa) e deixar o título alinhado a esquerda junto ao alinhamento do
+resto do currículo. Alinhamentos diferentes no mesmo material só são
+recomendados a quem já manja melhor da coisa
+
+* Objetivo
+
+Desenvolvedor
+
+* Formação
+
+- Ciência da Computação (*UFPE*)
+
+* Qualificações e Atividades Profissionais
+
+- Inglês – Proficiente (Britanic)
+- Inglês – Certificado TOEIC 2012 (Nota: 990/990)
+- Alemão – Intermediário (CCBA)
+- Professor de inglês (WizardPE) por 1,5 *ano*
+- Tradutor (Tempest Security Intelligence) por 3 *meses*
+- Desenvolvedor (HMS Sistemas e Serviços LTDA) por 3 *anos*
+- Ministração de curso de 10h+ (contratado por HMS Sistemas e Serviços LTDA) sobre sistema operacional GNU/Linux e VIM
+
+* Experiências Profissionais
+
+- Java EE 7 (WildFly, HIBERNATE)
+- JSF 2.1 (Facelets)
+- PostgreSQL e MySQL
+- Administração de servidores Unix e Windows
+- Subversion (ambos servidor e cliente)
+- Apache Maven
+- Apache HTTP Server
+  - Manutenção de aplicações PHP
+  - Manutenção de aplicação PHP própria de geração de /builds/
+- Infraestrutura de comunicação: BIND e Iptables
+
+* Habilidades
+
+- /Scripting/:
+  - POSIX Shell (sh, bash, zsh)
+  - Vimcript (VimL)
+  - Groovy
+  - Windows Batch
+- VIM, Emacs
+  
+* GitHub
+
+- [[https://github.com/lbrayner/vim-rzip][vim-rzip]]
