@@ -1,8 +1,6 @@
 #+OPTIONS: num:nil
-#+BEGIN_CENTER
 Brasileiro, solteiro, nascido em 1987\\
 #+INCLUDE: sensitive.org
-#+END_CENTER
 
 * COMMENT Crítica
  
@@ -16,7 +14,7 @@ recomendados a quem já manja melhor da coisa
 
 * Objetivo
 
-Desenvolvedor
+Desenvolvedor.
 
 * Formação
 
