@@ -35,6 +35,7 @@ Desenvolvedor.
 
 - Java EE 7 (WildFly, HIBERNATE)
 - JSF 2.1 (Facelets)
+- JasperReports
 - PostgreSQL e MySQL
 - Administração de servidores Unix e Windows
 - Subversion (ambos servidor e cliente)
