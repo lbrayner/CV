@@ -39,7 +39,7 @@ Desenvolvedor.
 - PostgreSQL e MySQL
 - Administração de servidores Unix e Windows
 - Subversion: ambos servidor e cliente (linha de comando)
-- Apache Maven: implantação de automação de /builds/
+- Apache Maven: execução de implantação de automação de /builds/
 - Apache HTTP Server — instalação e manutenção de:
   - aplicações PHP
   - aplicação PHP própria de geração de /builds/
