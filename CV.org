@@ -38,12 +38,14 @@ Desenvolvedor.
 - JasperReports
 - PostgreSQL e MySQL
 - Administração de servidores Unix e Windows
-- Subversion (ambos servidor e cliente)
-- Apache Maven
-- Apache HTTP Server
-  - Manutenção de aplicações PHP
-  - Manutenção de aplicação PHP própria de geração de /builds/
-- Infraestrutura de comunicação: BIND e Iptables
+- Subversion: ambos servidor e cliente (linha de comando)
+- Apache Maven: implantação de automação de /builds/
+- Apache HTTP Server — instalação e manutenção de:
+  - aplicações PHP
+  - aplicação PHP própria de geração de /builds/
+- Infraestrutura de comunicação:
+  - manutenção de serviço BIND
+  - Iptables
 
 * Habilidades
 
