@@ -37,6 +37,7 @@ Desenvolvedor.
 - JSF 2.1 (Facelets)
 - JasperReports
 - PostgreSQL e MySQL
+- Migração de dados
 - Administração de servidores Unix e Windows
 - Subversion: ambos servidor e cliente (linha de comando)
 - Apache Maven: execução de implantação de automação de /builds/
