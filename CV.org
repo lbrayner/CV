@@ -41,9 +41,9 @@ Desenvolvedor.
 - Administração de servidores Unix e Windows
 - Subversion: ambos servidor e cliente (linha de comando)
 - Apache Maven: execução de implantação de automação de /builds/
-- Apache HTTP Server — instalação e manutenção de:
-  - aplicações PHP
-  - aplicação PHP própria de geração de /builds/
+- Apache HTTP Server 
+  - /mod_proxy/ e /mod_rewrite/
+  - instalação e manutenção de aplicações PHP
 - Infraestrutura de comunicação:
   - manutenção de serviço BIND
   - Iptables
