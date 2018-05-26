@@ -33,10 +33,10 @@ Desenvolvedor.
 
 * Experiências Profissionais
 
-- Java EE 7 (WildFly, HIBERNATE)
+- Java EE 7 {WildFly, Hibernate(-Envers)}
 - JSF 2.1 (Facelets)
 - JasperReports
-- PostgreSQL e MySQL
+- PostgreSQL, MySQL e Oracle RDBMS
 - Migração de dados
 - Administração de servidores Unix e Windows
 - Subversion: ambos servidor e cliente (linha de comando)
