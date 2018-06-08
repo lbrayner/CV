@@ -1,4 +1,4 @@
-#+OPTIONS: num:nil
+#+OPTIONS: num:nil ^:nil
 Brasileiro, solteiro, nascido em 1987\\
 #+INCLUDE: sensitive.org
 
