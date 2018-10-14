@@ -15,7 +15,8 @@ Ciência da Computação (**UFPE**)
 - Tradutor (Tempest Security Intelligence) por 3 **meses**
 - HMS Sistemas e Serviços LTDA:
   - Desenvolvedor por 3 **anos**
-  - Ministração de curso de 10h+ (contrato à parte) sobre sistema operacional GNU/Linux e VIM
+  - Ministração de curso de 10h+ (contrato à parte) sobre sistema operacional
+    GNU/Linux e VIM
 
 # Experiências Profissionais
 
