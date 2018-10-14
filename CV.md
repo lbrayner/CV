@@ -4,7 +4,7 @@ Desenvolvedor.
 
 # Formação
 
-Ciência da Computação (**UFPE**)
+Ciência da Computação (**UFPE**).
 
 # Qualificações e Atividades Profissionais
 
