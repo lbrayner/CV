@@ -26,23 +26,25 @@ Ciência da Computação (**UFPE**).
 - PostgreSQL, MySQL e Oracle RDBMS
 - Migração de dados
 - Administração de servidores Unix e Windows
-- Subversion: ambos servidor e cliente (linha de comando)
-- Apache Maven: execução de implantação de automação de *builds*
+  - Samba
+  - BIND
+  - Iptables
 - Apache HTTP Server 
   - *mod\_proxy* e *mod\_rewrite*
   - instalação e manutenção de aplicações PHP
-- Infraestrutura de comunicação:
-  - manutenção de serviço BIND
-  - Iptables
+- Subversion: ambos servidor e cliente (linha de comando)
+- Apache Maven: execução de implantação de automação de *builds*
+  - aplicação própria PHP/bash geradora de *builds*
 
 # Habilidades
 
 - *Scripting*:
-  - POSIX Shell (sh, bash, zsh)
-  - Vimcript (VimL)
+  - POSIX Shell (sh, bash)
+  - Vimcript (VimL), Elisp
   - Groovy
-  - Windows Batch
-- VIM, Emacs
+- VIM, Emacs, Mutt
 - Git
   - [vim-rzip](https://github.com/lbrayner/vim-rzip)
   - [vtt-to-srt](https://github.com/lbrayner/vtt-to-srt)
+  - [sambaadmin](https://github.com/lbrayner/sambaadmin) → Samba: manutenção
+      de usuários e senhas com autosserviço
