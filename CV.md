@@ -25,7 +25,7 @@ Ciência da Computação (**UFPE**).
 - JasperReports
 - PostgreSQL, MySQL e Oracle RDBMS
 - Migração de dados
-- Administração de servidores Unix e Windows
+- Administração de servidores GNU/Linux e Windows
   - Samba
   - BIND
   - Iptables
