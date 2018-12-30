@@ -1,0 +1,4 @@
+#!/bin/sh
+
+pandoc -V margin-left=10mm -V margin-right=10mm -V margin-top=10mm -V margin-bottom=10mm \
+    -s -t html5 -o CV.pdf sensitive.md CV.md
