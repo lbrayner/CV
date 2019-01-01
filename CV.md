@@ -14,7 +14,7 @@ Ciência da Computação (**UFPE**).
 - Professor de inglês (WizardPE) por 1,5 **ano**
 - Tradutor (Tempest Security Intelligence) por 3 **meses**
 - HMS Sistemas e Serviços LTDA:
-  - Desenvolvedor por 3 **anos**
+  - Desenvolvedor por 4 **anos**
   - Ministração de curso de 10h+ (contrato à parte) sobre sistema operacional
     GNU/Linux e VIM
 
