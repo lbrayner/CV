@@ -14,32 +14,38 @@ Ciência da Computação (**UFPE**).
 - Professor de inglês (WizardPE) por 1,5 **ano**
 - Tradutor (Tempest Security Intelligence) por 3 **meses**
 - HMS Sistemas e Serviços LTDA:
-  - Desenvolvedor por 4 **anos**
+  - Desenvolvedor por 5 **anos**
+  - Analista de Sistemas Sênior por 1,5 **ano**
   - Ministração de curso de 10h+ (contrato à parte) sobre sistema operacional
     GNU/Linux e VIM
 
 # Experiências Profissionais
 
-- Java EE 7 {WildFly, Hibernate(-Envers)}
-- JSF 2.1 (Facelets)
+- Jakarta EE
+  - WildFly
+  - JPA: Hibernate
+  - JSF 2.1 (Facelets)
+- Eclipse IDE
 - JasperReports
-- PostgreSQL, MySQL e Oracle RDBMS
+- SQL: PostgreSQL, MySQL e Oracle RDBMS
+- Subversion: ambos servidor e cliente (linha de comando)
+- Spring Framework
+- REST (transferência de estado representacional)
 - Migração de dados
-- Administração de servidores GNU/Linux e Windows
+- Administração de servidores GNU/Linux
   - Samba
   - BIND
   - Iptables
-- Apache HTTP Server 
-  - *mod\_proxy* e *mod\_rewrite*
-  - instalação e manutenção de aplicações PHP
-- Subversion: ambos servidor e cliente (linha de comando)
+- Apache HTTP Server
 - Apache Maven: execução de implantação de automação de *builds*
   - aplicação própria PHP/bash geradora de *builds*
+- OpenVPN
 
 # Habilidades
 
+- Shells: bash e zsh
 - *Scripting*:
-  - POSIX Shell (sh, bash)
+  - Shell (POSIX, bash, zsh)
   - Vimcript (VimL), Elisp
   - Groovy
 - VIM, Emacs, Mutt
