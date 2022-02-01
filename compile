@@ -1,4 +1,40 @@
-#!/bin/sh
+#!/usr/bin/env bash
+
+print_usage() {
+	printf "\n$(basename "${0}") [-h] [-s]
+
+    -h    Mostar estas informações e sair
+    -s    Incluir informação sensível
+
+Converte CV.md (Markdown) em PDF (Webkit).\n"
+}
+
+sensitive=""
+while getopts ":hs" opt
+do
+    case ${opt} in
+        h)
+            print_usage
+            exit
+            ;;
+        s)
+            sensitive="true"
+            ;;
+        \?)
+            echo "Invalid option: -$OPTARG" 1>&2
+            print_usage 1>&2
+            exit 1
+            ;;
+    esac
+done
+shift $((OPTIND - 1))
+
+if [[ -n "${sensitive}" ]]
+then
+    pandoc -V margin-left=10mm -V margin-right=10mm -V margin-top=10mm -V margin-bottom=10mm \
+        -s -t html5 -o CV.pdf title.md sensitive.md CV.md
+    exit
+fi
 
 pandoc -V margin-left=10mm -V margin-right=10mm -V margin-top=10mm -V margin-bottom=10mm \
-    -s -t html5 -o CV.pdf sensitive.md CV.md
+    -s -t html5 -o CV.pdf title.md CV.md
