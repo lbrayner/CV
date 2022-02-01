@@ -49,6 +49,7 @@ Ciência da Computação (**UFPE**).
   - Vimcript (VimL), Elisp
   - Groovy
 - VIM, Emacs, Mutt
+- OpenBSD, FreeBSD
 - Git
   - [vim-rzip](https://github.com/lbrayner/vim-rzip)
   - [vtt-to-srt](https://github.com/lbrayner/vtt-to-srt)
