@@ -39,7 +39,7 @@ Ciência da Computação (**UFPE**).
 - Apache HTTP Server
 - Apache Maven: execução de implantação de automação de *builds*
   - aplicação própria PHP/bash geradora de *builds*
-- OpenVPN
+- Servidor OpenVPN
 
 # Habilidades
 
