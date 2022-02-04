@@ -10,11 +10,11 @@ Bachelor of Science in Computer Science — *Universidade Federal de Pernambuco*
 
 # Work experiences
 
-- *HMS Sistemas e Serviços LTDA*
+- *HMS Sistemas e Serviços LTDA* (Brazil)
   - Systems analyst team lead since June 2020
   - Senior systems analyst for 3 **years**
   - Java developer for 2 **years**
-- Tempest Security Intelligence
+- Tempest Security Intelligence (Brazil)
   - Translator for 3 **months**
 
 # Technical skills
