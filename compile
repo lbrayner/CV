@@ -1,24 +1,29 @@
 #!/usr/bin/env bash
 
 print_usage() {
-	printf "\n$(basename "${0}") [-h] [-s]
+	printf "\n$(basename "${0}") [-e] [-h] [-s]
 
+    -e    Versão em inglês
     -h    Mostar estas informações e sair
     -s    Incluir informação sensível
 
 Converte CV.md (Markdown) em PDF (Webkit).\n"
 }
 
+english=""
 sensitive=""
-while getopts ":hs" opt
+while getopts ":ehs" opt
 do
     case ${opt} in
+        e)
+            english=true
+            ;;
         h)
             print_usage
             exit
             ;;
         s)
-            sensitive="true"
+            sensitive=sensitive.md
             ;;
         \?)
             echo "Invalid option: -$OPTARG" 1>&2
@@ -29,12 +34,22 @@ do
 done
 shift $((OPTIND - 1))
 
+cv=CV.md
+out=CV.pdf
+
+if [[ -n "${english}" ]]
+then
+    cv=CV_en.md
+    out=CV_en.pdf
+    sensitive=sensitive_en.md
+fi
+
 if [[ -n "${sensitive}" ]]
 then
     pandoc -V margin-left=10mm -V margin-right=10mm -V margin-top=10mm -V margin-bottom=10mm \
-        -s -t html5 -o CV.pdf title.md sensitive.md CV.md
+        -s -t html5 -o ${out} title.md ${sensitive} ${cv}
     exit
 fi
 
 pandoc -V margin-left=10mm -V margin-right=10mm -V margin-top=10mm -V margin-bottom=10mm \
-    -s -t html5 -o CV.pdf title.md CV.md
+    -s -t html5 -o ${out} title.md ${cv}

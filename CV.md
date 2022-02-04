@@ -21,11 +21,7 @@ Ciência da Computação (**UFPE**).
 
 # Experiências Profissionais
 
-- Jakarta EE
-  - WildFly
-  - JPA: Hibernate
-  - JSF 2.1 (Facelets)
-- Eclipse IDE
+- Jakarta EE: WildFly, JPA+Hibernate, JSF 2.1 (Facelets)
 - JasperReports
 - SQL: PostgreSQL, MySQL e Oracle RDBMS
 - Subversion: ambos servidor e cliente (linha de comando)
@@ -48,10 +44,9 @@ Ciência da Computação (**UFPE**).
   - Shell (POSIX, bash, zsh)
   - Vimcript (VimL), Elisp
   - Groovy
-- VIM, Emacs, Mutt
-- OpenBSD, FreeBSD
+- VIM, Emacs, Mutt, OpenBSD, FreeBSD
 - Git
   - [vim-rzip](https://github.com/lbrayner/vim-rzip)
   - [vtt-to-srt](https://github.com/lbrayner/vtt-to-srt)
-  - [sambaadmin](https://github.com/lbrayner/sambaadmin) → Samba: manutenção
-      de usuários e senhas com autosserviço
+  - [sambaadmin](https://github.com/lbrayner/sambaadmin) → Samba: manutenção de
+    usuários e senhas com autosserviço
