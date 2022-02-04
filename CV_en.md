@@ -1,6 +1,6 @@
 # Education
 
-Bachelor of Science in Computer Science — *Universidade Federal de Pernambuco*
+Bachelor of Science in Computer Science — *Universidade Federal de Pernambuco* (Brazil)
 
 # Language skills
 
