@@ -48,4 +48,3 @@ Bachelor of Science in Computer Science — *Universidade Federal de Pernambuco*
 # GitHub
   - [vim-rzip](https://github.com/lbrayner/vim-rzip)
   - [vtt-to-srt](https://github.com/lbrayner/vtt-to-srt)
-  - [sambaadmin](https://github.com/lbrayner/sambaadmin)

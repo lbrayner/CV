@@ -1,52 +1,53 @@
-# Objetivo
-
-Desenvolvedor.
-
 # Formação
 
-Ciência da Computação (**UFPE**).
+Ciência da Computação — Universidade Federal de Pernambuco
 
-# Qualificações e Atividades Profissionais
+# Línguas
 
-- Inglês – Proficiente (Britanic)
-- Inglês – Certificado TOEIC 2012 (Nota: 990/990)
+- Inglês – Fluente (Britanic)
+  - Certificado TOEIC 2012 (Nota: 990/990)
+  - Professor de inglês (WizardPE) por 1,5 **ano**
 - Alemão – Intermediário (CCBA)
-- Professor de inglês (WizardPE) por 1,5 **ano**
-- Tradutor (Tempest Security Intelligence) por 3 **meses**
+
+# Experiências profissionais
+
 - HMS Sistemas e Serviços LTDA:
-  - Desenvolvedor por 5 **anos**
-  - Analista de Sistemas Sênior por 1,5 **ano**
+  - Analista de Sistemas (Líder) desde junho de 2020
+  - Analista de Sistemas Sênior por 3 **anos**
+  - Desenvolvedor Java por 2 **anos**
   - Ministração de curso de 10h+ (contrato à parte) sobre sistema operacional
     GNU/Linux e VIM
+- Tempest Security Intelligence
+  - Tradutor por 3 **meses**
 
-# Experiências Profissionais
+# Habilidades técnicas
 
 - Jakarta EE: WildFly, JPA+Hibernate, JSF 2.1 (Facelets)
 - JasperReports
 - SQL: PostgreSQL, MySQL e Oracle RDBMS
-- Subversion: ambos servidor e cliente (linha de comando)
+- Subversion, Git
+- Apache Maven
+- Migração de dados
 - Spring Framework
 - REST (transferência de estado representacional)
-- Migração de dados
-- Administração de servidores GNU/Linux
-  - Samba
-  - BIND
-  - Iptables
-- Apache HTTP Server
-- Apache Maven: execução de implantação de automação de *builds*
-  - aplicação própria PHP/bash geradora de *builds*
-- Servidor OpenVPN
 
-# Habilidades
+# Mais habilidades técnicas
 
-- Shells: bash e zsh
-- *Scripting*:
+- VIM, Emacs, Mutt
+- Shells: bash and zsh
+- Scripting:
   - Shell (POSIX, bash, zsh)
   - Vimcript (VimL), Elisp
   - Groovy
-- VIM, Emacs, Mutt, OpenBSD, FreeBSD
-- Git
+
+## Devops
+
+- GNU/Linux server admin: Debian, Arch Linux,  CentOS, Ubuntu
+- Subversion server, Samba, BIND, iptables, nftables
+- OpenBSD, FreeBSD
+- Apache HTTP Server
+- OpenVPN server
+
+# GitHub
   - [vim-rzip](https://github.com/lbrayner/vim-rzip)
   - [vtt-to-srt](https://github.com/lbrayner/vtt-to-srt)
-  - [sambaadmin](https://github.com/lbrayner/sambaadmin) → Samba: manutenção de
-    usuários e senhas com autosserviço
