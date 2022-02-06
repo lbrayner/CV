@@ -2,7 +2,7 @@
 
 Ciência da Computação — Universidade Federal de Pernambuco
 
-# Línguas
+# Idiomas
 
 - Inglês – Fluente (Britanic)
   - Certificado TOEIC 2012 (Nota: 990/990)
