@@ -44,7 +44,3 @@ Bachelor of Science in Computer Science — *Universidade Federal de Pernambuco*
 - OpenBSD, FreeBSD
 - Apache HTTP Server
 - OpenVPN server
-
-# GitHub
-  - [vim-rzip](https://github.com/lbrayner/vim-rzip)
-  - [vtt-to-srt](https://github.com/lbrayner/vtt-to-srt)
