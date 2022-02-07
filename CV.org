@@ -4,7 +4,7 @@ Brasileiro, solteiro, nascido em 1987\\
 #+INCLUDE: sensitive.org
 
 * COMMENT Crítica
- 
+
 ** Pedro
 
 Algumas coisas principais já melhorariam. Margens maiores, pra dar
@@ -42,7 +42,7 @@ Ciência da Computação (*UFPE*).
 - Administração de servidores Unix e Windows
 - Subversion: ambos servidor e cliente (linha de comando)
 - Apache Maven: execução de implantação de automação de /builds/
-- Apache HTTP Server 
+- Apache HTTP Server
   - /mod_proxy/ e /mod_rewrite/
   - instalação e manutenção de aplicações PHP
 - Infraestrutura de comunicação:
@@ -52,11 +52,12 @@ Ciência da Computação (*UFPE*).
 * Habilidades
 
 - /Scripting/:
-  - POSIX Shell (sh, bash, zsh)
-  - Vimcript (VimL)
+  - POSIX Shell
+  - bash
+  - Vimcript (VimL), Elisp
   - Groovy
-  - Windows Batch
-- VIM, Emacs
+- VIM, Emacs, Mutt
 - Git
   - [[https://github.com/lbrayner/vim-rzip][vim-rzip]]
   - [[https://github.com/lbrayner/vtt-to-srt][vtt-to-srt]]
+  - [[https://github.com/lbrayner/sambaadmin][sambaadmin]] → Samba: manutenção de usuários e senhas com autosserviço
