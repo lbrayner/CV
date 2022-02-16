@@ -8,7 +8,7 @@ Bachelor of Science in Computer Science — *Universidade Federal de Pernambuco*
 - English — Fluent
 - German – Intermediate
 
-# Work experiences
+# Work experience
 
 - *HMS Sistemas e Serviços LTDA* (Brazil)
   - Systems analyst team lead since June 2020
