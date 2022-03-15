@@ -6,7 +6,7 @@ infrastructure, which brought me closer to Python and Shell/Bash Script (mostly
 the latter). I contributed to and lead the development of a human resources
 management system aimed at the public sector with Jakarta EE.
 
-# TODO Knowledge and Skills
+# Knowledge and Skills
 
 ## Technical knowledge
 
@@ -19,6 +19,15 @@ management system aimed at the public sector with Jakarta EE.
 - Data migration
 - Spring Framework
 - REST (Representational state transfer)
+
+## Relevant competencies
+
+- Problem solving
+- Resilience
+- Flexibility
+- Conflict resolution
+- Written communication
+- Helping
 
 ## Managerial strengths
 
