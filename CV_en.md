@@ -25,8 +25,8 @@ Bachelor of Science in Computer Science — *Universidade Federal de Pernambuco*
 ### Systems analyst team lead since June 2020
 
 I have designed and implemented a Jakarta EE (+JPA w/ Hibernate, PostgreSQL,
-Groovy) web service client to exchange complex municipal civil service staff
-data with federal administrative bodies.
+Groovy) web service client (SOAP) to exchange complex municipal civil service
+staff data with federal administrative bodies.
 
 I have overseen Spring Boot + Angular projects which make use of Domain-driven
 Design techniques, such as Hexagonal Architecture and Command Query
@@ -35,7 +35,7 @@ Responsibility Segregation (CQRS).
 I have concomitantly maintained the IT infrastructure (Linux servers, BIND,
 iptables, nftables, Apache HTTP Server, Subversion, Samba, OpenVPN).
 
-### Senior systems analyst for 3 **years**
+### Senior systems analyst for 3 years
 
 I have designed and implemented a Jakarta EE (+JPA w/ Hibernate, PostgreSQL,
 Groovy) module that exports complex structured municipal civil service staff
@@ -47,7 +47,7 @@ data migration application that works with any data source — the target is JPA
 I have concomitantly maintained the IT infrastructure (Linux servers, BIND,
 iptables, nftables, Apache HTTP Server, Subversion, Samba, OpenVPN).
 
-### Java developer for 2 **years**
+### Java developer for 2 years
 
 I have developed and maintained several features (full-stack) to a human
 resources management system, which comprise: queries e data manipulation (JPA w/
